@@ -2,7 +2,7 @@
 
 A desktop application for visualizing geospatial tracking data with interactive features for exploring TIFF maps and GeoJSON point data.
 
-![GeoTrack Visualizer Screenshot](screenshots/app_screenshot.png)
+![GeoTrack Visualizer Screenshot](screenshots/geoTrackVisualizer.png)
 
 ## Features
 
