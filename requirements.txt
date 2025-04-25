@@ -1,0 +1,7 @@
+PyQt5
+geopandas
+rasterio
+matplotlib
+pyproj
+pillow
+pyinstaller

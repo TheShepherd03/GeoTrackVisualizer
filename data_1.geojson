@@ -1,0 +1,4493 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994103333333335,
+                    -27.664135
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16152687749126926,
+                "Altitude": 323.1,
+                "Date & Time": "20-11-2024 17:40:35",
+                "Frequency": 148.034,
+                "TN Bearing": 66.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994243333333333,
+                    -27.664111666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15715912013547495,
+                "Altitude": 323.3,
+                "Date & Time": "20-11-2024 17:40:36",
+                "Frequency": 150.1485,
+                "TN Bearing": 66.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994398333333333,
+                    -27.66409
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16769132344052196,
+                "Altitude": 323.4,
+                "Date & Time": "20-11-2024 17:40:37",
+                "Frequency": 150.1485,
+                "TN Bearing": 66.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994698333333332,
+                    -27.664041666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2065933949779719,
+                "Altitude": 322.8,
+                "Date & Time": "20-11-2024 17:40:39",
+                "Frequency": 148.034,
+                "TN Bearing": 66.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994851666666666,
+                    -27.664016666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19861903638229705,
+                "Altitude": 322.5,
+                "Date & Time": "20-11-2024 17:40:40",
+                "Frequency": 148.034,
+                "TN Bearing": 66.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.995151666666665,
+                    -27.663965
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.26197558327112347,
+                "Altitude": 322.7,
+                "Date & Time": "20-11-2024 17:40:42",
+                "Frequency": 150.1485,
+                "TN Bearing": 66.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.995298333333334,
+                    -27.663945
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16959167624008842,
+                "Altitude": 322.2,
+                "Date & Time": "20-11-2024 17:40:43",
+                "Frequency": 150.1485,
+                "TN Bearing": 65.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.995748333333335,
+                    -27.66387
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1603179407538846,
+                "Altitude": 322.3,
+                "Date & Time": "20-11-2024 17:40:46",
+                "Frequency": 148.034,
+                "TN Bearing": 66.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.996183333333335,
+                    -27.663805
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18879927665693685,
+                "Altitude": 322.6,
+                "Date & Time": "20-11-2024 17:40:49",
+                "Frequency": 150.1485,
+                "TN Bearing": 66.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.996335,
+                    -27.663778333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20829824279644527,
+                "Altitude": 322.8,
+                "Date & Time": "20-11-2024 17:40:51",
+                "Frequency": 148.034,
+                "TN Bearing": 66.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.996636666666667,
+                    -27.663733333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17910355381900445,
+                "Altitude": 322.3,
+                "Date & Time": "20-11-2024 17:40:52",
+                "Frequency": 148.034,
+                "TN Bearing": 65.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99782666666667,
+                    -27.663538333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.6006791954860091,
+                "Altitude": 323.1,
+                "Date & Time": "20-11-2024 17:41:00",
+                "Frequency": 150.1485,
+                "TN Bearing": 65.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.999145,
+                    -27.663311666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.3436600309214555,
+                "Altitude": 322.3,
+                "Date & Time": "20-11-2024 17:41:09",
+                "Frequency": 150.1485,
+                "TN Bearing": 65.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.002156666666664,
+                    -27.662831666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.28766115065081976,
+                "Altitude": 322.6,
+                "Date & Time": "20-11-2024 17:41:29",
+                "Frequency": 148.034,
+                "TN Bearing": 66.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00393666666667,
+                    -27.66254
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1665256786509417,
+                "Altitude": 322.9,
+                "Date & Time": "20-11-2024 17:41:42",
+                "Frequency": 148.034,
+                "TN Bearing": 65.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00454666666667,
+                    -27.662435
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18535634808358736,
+                "Altitude": 322.8,
+                "Date & Time": "20-11-2024 17:41:45",
+                "Frequency": 148.034,
+                "TN Bearing": 65.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00589,
+                    -27.662221666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20928680896759033,
+                "Altitude": 323.3,
+                "Date & Time": "20-11-2024 17:41:54",
+                "Frequency": 150.1485,
+                "TN Bearing": 64.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00649166666667,
+                    -27.662118333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.25142813683487475,
+                "Altitude": 323.4,
+                "Date & Time": "20-11-2024 17:41:58",
+                "Frequency": 148.034,
+                "TN Bearing": 65.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.006795,
+                    -27.662061666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1984585469472222,
+                "Altitude": 323.2,
+                "Date & Time": "20-11-2024 17:42:00",
+                "Frequency": 148.034,
+                "TN Bearing": 65.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.008448333333334,
+                    -27.661786666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.4514587271842174,
+                "Altitude": 323.4,
+                "Date & Time": "20-11-2024 17:42:11",
+                "Frequency": 150.1485,
+                "TN Bearing": 65.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00888166666667,
+                    -27.661715
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2630235212564003,
+                "Altitude": 324.0,
+                "Date & Time": "20-11-2024 17:42:14",
+                "Frequency": 150.1485,
+                "TN Bearing": 64.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00947,
+                    -27.661623333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1855750997492578,
+                "Altitude": 324.2,
+                "Date & Time": "20-11-2024 17:42:18",
+                "Frequency": 150.1485,
+                "TN Bearing": 64.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009765,
+                    -27.661578333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17739685063133948,
+                "Altitude": 323.5,
+                "Date & Time": "20-11-2024 17:42:20",
+                "Frequency": 150.1485,
+                "TN Bearing": 64.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01092833333333,
+                    -27.661371666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21160667529329658,
+                "Altitude": 324.0,
+                "Date & Time": "20-11-2024 17:42:28",
+                "Frequency": 148.034,
+                "TN Bearing": 64.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01181,
+                    -27.661225
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.28726828531944193,
+                "Altitude": 324.1,
+                "Date & Time": "20-11-2024 17:42:34",
+                "Frequency": 148.034,
+                "TN Bearing": 64.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013115,
+                    -27.661013333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.5391362719819881,
+                "Altitude": 324.3,
+                "Date & Time": "20-11-2024 17:42:43",
+                "Frequency": 148.034,
+                "TN Bearing": 72.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.014885,
+                    -27.660725
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.214241608773591,
+                "Altitude": 324.3,
+                "Date & Time": "20-11-2024 17:42:55",
+                "Frequency": 150.1485,
+                "TN Bearing": 63.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02699166666667,
+                    -27.658653333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16123489331221208,
+                "Altitude": 323.8,
+                "Date & Time": "20-11-2024 17:44:22",
+                "Frequency": 150.1485,
+                "TN Bearing": 333.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02694833333333,
+                    -27.658571666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15290701412595809,
+                "Altitude": 324.0,
+                "Date & Time": "20-11-2024 17:44:24",
+                "Frequency": 150.1485,
+                "TN Bearing": 323.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.026905,
+                    -27.658455
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17566435417393222,
+                "Altitude": 323.9,
+                "Date & Time": "20-11-2024 17:44:26",
+                "Frequency": 148.034,
+                "TN Bearing": 322.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02683,
+                    -27.658258333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17246155039174482,
+                "Altitude": 324.1,
+                "Date & Time": "20-11-2024 17:44:28",
+                "Frequency": 148.034,
+                "TN Bearing": 322.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02675,
+                    -27.658025
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1839132164604962,
+                "Altitude": 323.5,
+                "Date & Time": "20-11-2024 17:44:30",
+                "Frequency": 148.034,
+                "TN Bearing": 322.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02665833333333,
+                    -27.657781666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21234116502455436,
+                "Altitude": 323.2,
+                "Date & Time": "20-11-2024 17:44:32",
+                "Frequency": 148.034,
+                "TN Bearing": 321.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02661666666667,
+                    -27.657656666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16144858818734065,
+                "Altitude": 323.3,
+                "Date & Time": "20-11-2024 17:44:33",
+                "Frequency": 148.034,
+                "TN Bearing": 322.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.026535,
+                    -27.6574
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19123011952615343,
+                "Altitude": 323.1,
+                "Date & Time": "20-11-2024 17:44:35",
+                "Frequency": 148.034,
+                "TN Bearing": 321.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02649666666667,
+                    -27.657271666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21242814909783192,
+                "Altitude": 323.1,
+                "Date & Time": "20-11-2024 17:44:36",
+                "Frequency": 148.034,
+                "TN Bearing": 321.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.026448333333335,
+                    -27.657143333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2072735696856398,
+                "Altitude": 322.6,
+                "Date & Time": "20-11-2024 17:44:37",
+                "Frequency": 150.1485,
+                "TN Bearing": 322.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02636,
+                    -27.656876666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2812103593896609,
+                "Altitude": 322.9,
+                "Date & Time": "20-11-2024 17:44:39",
+                "Frequency": 148.034,
+                "TN Bearing": 321.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.026185,
+                    -27.65637
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18449234630679712,
+                "Altitude": 321.9,
+                "Date & Time": "20-11-2024 17:44:43",
+                "Frequency": 150.1485,
+                "TN Bearing": 321.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.026105,
+                    -27.656109999999998
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18911969164037146,
+                "Altitude": 321.4,
+                "Date & Time": "20-11-2024 17:44:45",
+                "Frequency": 148.034,
+                "TN Bearing": 321.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02606,
+                    -27.655985
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2403360304015223,
+                "Altitude": 321.6,
+                "Date & Time": "20-11-2024 17:44:46",
+                "Frequency": 148.034,
+                "TN Bearing": 321.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02592833333333,
+                    -27.655601666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17149575796793215,
+                "Altitude": 321.1,
+                "Date & Time": "20-11-2024 17:44:49",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.025888333333334,
+                    -27.65547
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.26163372240262106,
+                "Altitude": 321.2,
+                "Date & Time": "20-11-2024 17:44:50",
+                "Frequency": 148.034,
+                "TN Bearing": 320.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02580833333333,
+                    -27.655221666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.27011144993593916,
+                "Altitude": 322.1,
+                "Date & Time": "20-11-2024 17:44:52",
+                "Frequency": 148.034,
+                "TN Bearing": 320.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02576666666667,
+                    -27.655098333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2082650644297246,
+                "Altitude": 322.1,
+                "Date & Time": "20-11-2024 17:44:53",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02572333333333,
+                    -27.65497166666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15777264707139693,
+                "Altitude": 321.6,
+                "Date & Time": "20-11-2024 17:44:54",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02572333333333,
+                    -27.65497166666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2327816946490202,
+                "Altitude": 321.6,
+                "Date & Time": "20-11-2024 17:44:54",
+                "Frequency": 148.034,
+                "TN Bearing": 321.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.025551666666665,
+                    -27.654455
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1583529228810221,
+                "Altitude": 320.8,
+                "Date & Time": "20-11-2024 17:44:58",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.025551666666665,
+                    -27.654455
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17047779692802578,
+                "Altitude": 320.8,
+                "Date & Time": "20-11-2024 17:44:59",
+                "Frequency": 148.034,
+                "TN Bearing": 320.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.025505,
+                    -27.654331666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1550666092953179,
+                "Altitude": 321.5,
+                "Date & Time": "20-11-2024 17:45:00",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.025461666666665,
+                    -27.654208333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20955225409124978,
+                "Altitude": 321.3,
+                "Date & Time": "20-11-2024 17:45:00",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.025418333333334,
+                    -27.654078333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2128108280885499,
+                "Altitude": 320.9,
+                "Date & Time": "20-11-2024 17:45:01",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02537,
+                    -27.653946666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1673180486250203,
+                "Altitude": 320.6,
+                "Date & Time": "20-11-2024 17:45:02",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02532166666666,
+                    -27.653825
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18241251382278278,
+                "Altitude": 321.5,
+                "Date & Time": "20-11-2024 17:45:03",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02527833333333,
+                    -27.653696666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24313862013514154,
+                "Altitude": 321.3,
+                "Date & Time": "20-11-2024 17:45:04",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02524666666667,
+                    -27.65357
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18787532098940574,
+                "Altitude": 321.3,
+                "Date & Time": "20-11-2024 17:45:06",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02520333333333,
+                    -27.653448333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1737383718136698,
+                "Altitude": 321.6,
+                "Date & Time": "20-11-2024 17:45:06",
+                "Frequency": 148.034,
+                "TN Bearing": 320.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02511666666667,
+                    -27.653193333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2800180845952127,
+                "Altitude": 321.3,
+                "Date & Time": "20-11-2024 17:45:08",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02507666666666,
+                    -27.653066666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15190952581178863,
+                "Altitude": 321.2,
+                "Date & Time": "20-11-2024 17:45:09",
+                "Frequency": 148.034,
+                "TN Bearing": 320.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.024993333333335,
+                    -27.65281166666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2449995190545451,
+                "Altitude": 321.0,
+                "Date & Time": "20-11-2024 17:45:11",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.024993333333335,
+                    -27.65281166666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15457997506018728,
+                "Altitude": 321.0,
+                "Date & Time": "20-11-2024 17:45:12",
+                "Frequency": 148.034,
+                "TN Bearing": 320.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02486666666667,
+                    -27.65243
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19788411009358242,
+                "Altitude": 321.0,
+                "Date & Time": "20-11-2024 17:45:14",
+                "Frequency": 148.034,
+                "TN Bearing": 320.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02478,
+                    -27.65217833333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1537955722596962,
+                "Altitude": 320.9,
+                "Date & Time": "20-11-2024 17:45:16",
+                "Frequency": 148.034,
+                "TN Bearing": 321.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02473666666667,
+                    -27.652051666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19345992768649012,
+                "Altitude": 320.9,
+                "Date & Time": "20-11-2024 17:45:17",
+                "Frequency": 148.034,
+                "TN Bearing": 321.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02469333333333,
+                    -27.651926666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15867890397203155,
+                "Altitude": 320.8,
+                "Date & Time": "20-11-2024 17:45:18",
+                "Frequency": 148.034,
+                "TN Bearing": 321.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02469333333333,
+                    -27.651926666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1575325040903408,
+                "Altitude": 320.8,
+                "Date & Time": "20-11-2024 17:45:18",
+                "Frequency": 148.034,
+                "TN Bearing": 321.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02465,
+                    -27.651801666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20167641196167096,
+                "Altitude": 320.7,
+                "Date & Time": "20-11-2024 17:45:19",
+                "Frequency": 150.1485,
+                "TN Bearing": 321.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.024386666666665,
+                    -27.651051666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.4774426997755654,
+                "Altitude": 320.3,
+                "Date & Time": "20-11-2024 17:45:26",
+                "Frequency": 150.1485,
+                "TN Bearing": 321.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.024341666666665,
+                    -27.650925
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2132599547621794,
+                "Altitude": 320.2,
+                "Date & Time": "20-11-2024 17:45:27",
+                "Frequency": 148.034,
+                "TN Bearing": 320.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.024125,
+                    -27.650291666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19894836441380903,
+                "Altitude": 320.3,
+                "Date & Time": "20-11-2024 17:45:31",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02408833333333,
+                    -27.65016333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.152499142132001,
+                "Altitude": 320.2,
+                "Date & Time": "20-11-2024 17:45:32",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02404833333333,
+                    -27.650041666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1513952429377241,
+                "Altitude": 320.1,
+                "Date & Time": "20-11-2024 17:45:33",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.024005,
+                    -27.649913333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15202603208308574,
+                "Altitude": 319.8,
+                "Date & Time": "20-11-2024 17:45:34",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02391,
+                    -27.649658333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19515813619364053,
+                "Altitude": 319.4,
+                "Date & Time": "20-11-2024 17:45:36",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02382333333333,
+                    -27.649398333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2666381078597624,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:45:38",
+                "Frequency": 148.034,
+                "TN Bearing": 320.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02382333333333,
+                    -27.649398333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18287495549884625,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:45:38",
+                "Frequency": 148.034,
+                "TN Bearing": 320.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.023735,
+                    -27.649156666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21927677153144032,
+                "Altitude": 319.1,
+                "Date & Time": "20-11-2024 17:45:40",
+                "Frequency": 150.1485,
+                "TN Bearing": 320.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02368666666667,
+                    -27.649041666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15180454283836298,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:45:41",
+                "Frequency": 150.1485,
+                "TN Bearing": 319.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.023606666666666,
+                    -27.648818333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1829428038035985,
+                "Altitude": 319.1,
+                "Date & Time": "20-11-2024 17:45:43",
+                "Frequency": 150.1485,
+                "TN Bearing": 318.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.023558333333334,
+                    -27.648675
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17227021089638583,
+                "Altitude": 319.0,
+                "Date & Time": "20-11-2024 17:45:45",
+                "Frequency": 150.1485,
+                "TN Bearing": 314.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.023543333333336,
+                    -27.648633333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23174392481450923,
+                "Altitude": 319.0,
+                "Date & Time": "20-11-2024 17:45:46",
+                "Frequency": 150.1485,
+                "TN Bearing": 294.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02352,
+                    -27.648601666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1756234632921405,
+                "Altitude": 318.8,
+                "Date & Time": "20-11-2024 17:45:47",
+                "Frequency": 148.034,
+                "TN Bearing": 286.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02344,
+                    -27.648571666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16907104509300552,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:45:49",
+                "Frequency": 150.1485,
+                "TN Bearing": 242.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.021825,
+                    -27.64889
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.3453996396274306,
+                "Altitude": 317.9,
+                "Date & Time": "20-11-2024 17:46:03",
+                "Frequency": 148.034,
+                "TN Bearing": 231.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.021685,
+                    -27.648918333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22597387214773335,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:46:04",
+                "Frequency": 148.034,
+                "TN Bearing": 231.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.02139666666667,
+                    -27.648966666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.32837167964316905,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:46:06",
+                "Frequency": 148.034,
+                "TN Bearing": 231.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.021098333333335,
+                    -27.649026666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2218277586507611,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:46:08",
+                "Frequency": 148.034,
+                "TN Bearing": 231.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01994,
+                    -27.649236666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.32896208722377196,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:46:16",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.019796666666664,
+                    -27.649258333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24098693756968714,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:46:17",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01950333333333,
+                    -27.649315
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17771462808013894,
+                "Altitude": 318.7,
+                "Date & Time": "20-11-2024 17:46:19",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01950333333333,
+                    -27.649315
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1723674540698994,
+                "Altitude": 318.7,
+                "Date & Time": "20-11-2024 17:46:19",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01936,
+                    -27.649331666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18639275367604569,
+                "Altitude": 317.8,
+                "Date & Time": "20-11-2024 17:46:20",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.019216666666665,
+                    -27.649361666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20757614038302563,
+                "Altitude": 318.8,
+                "Date & Time": "20-11-2024 17:46:21",
+                "Frequency": 148.034,
+                "TN Bearing": 231.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.018031666666666,
+                    -27.64957666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 1.9629576127044857,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:46:30",
+                "Frequency": 148.034,
+                "TN Bearing": 231.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01744166666667,
+                    -27.649678333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.25075949452002533,
+                "Altitude": 319.6,
+                "Date & Time": "20-11-2024 17:46:33",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0173,
+                    -27.64971
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23047121430863626,
+                "Altitude": 319.8,
+                "Date & Time": "20-11-2024 17:46:34",
+                "Frequency": 148.034,
+                "TN Bearing": 231.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01715166666666,
+                    -27.649731666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.338097961503081,
+                "Altitude": 319.1,
+                "Date & Time": "20-11-2024 17:46:35",
+                "Frequency": 148.034,
+                "TN Bearing": 231.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.016873333333336,
+                    -27.64979
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2592062810435891,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:46:37",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.016731666666665,
+                    -27.64981166666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.31967727409210056,
+                "Altitude": 318.4,
+                "Date & Time": "20-11-2024 17:46:38",
+                "Frequency": 148.034,
+                "TN Bearing": 231.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.016151666666666,
+                    -27.649913333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23093116396921687,
+                "Altitude": 319.1,
+                "Date & Time": "20-11-2024 17:46:42",
+                "Frequency": 148.034,
+                "TN Bearing": 231.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.015856666666664,
+                    -27.64997
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24255134121631272,
+                "Altitude": 319.0,
+                "Date & Time": "20-11-2024 17:46:44",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01571833333333,
+                    -27.649998333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17806643882067874,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:46:45",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.015415,
+                    -27.650051666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22924830773263238,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:46:47",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01528,
+                    -27.650085
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16757565390435047,
+                "Altitude": 318.7,
+                "Date & Time": "20-11-2024 17:46:48",
+                "Frequency": 150.1485,
+                "TN Bearing": 231.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01513166666667,
+                    -27.650105
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24684050003997982,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:46:49",
+                "Frequency": 148.034,
+                "TN Bearing": 231.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01499,
+                    -27.650128333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.26415229513077065,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:46:50",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0147,
+                    -27.650178333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22840011297375895,
+                "Altitude": 319.4,
+                "Date & Time": "20-11-2024 17:46:52",
+                "Frequency": 148.034,
+                "TN Bearing": 230.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01455333333333,
+                    -27.65020833333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17837766790762544,
+                "Altitude": 318.8,
+                "Date & Time": "20-11-2024 17:46:53",
+                "Frequency": 148.034,
+                "TN Bearing": 231.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01426166666667,
+                    -27.650258333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18563514458946884,
+                "Altitude": 318.8,
+                "Date & Time": "20-11-2024 17:46:55",
+                "Frequency": 148.034,
+                "TN Bearing": 230.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.014118333333336,
+                    -27.65028
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22341933799907565,
+                "Altitude": 318.5,
+                "Date & Time": "20-11-2024 17:46:56",
+                "Frequency": 148.034,
+                "TN Bearing": 230.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013976666666665,
+                    -27.650306666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2032035445154179,
+                "Altitude": 318.5,
+                "Date & Time": "20-11-2024 17:46:57",
+                "Frequency": 148.034,
+                "TN Bearing": 231.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013976666666665,
+                    -27.650306666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15550487660220824,
+                "Altitude": 318.5,
+                "Date & Time": "20-11-2024 17:46:57",
+                "Frequency": 148.034,
+                "TN Bearing": 230.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013686666666665,
+                    -27.650361666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24801440304145217,
+                "Altitude": 318.5,
+                "Date & Time": "20-11-2024 17:46:59",
+                "Frequency": 148.034,
+                "TN Bearing": 231.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013243333333335,
+                    -27.65044
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18595044821267948,
+                "Altitude": 319.1,
+                "Date & Time": "20-11-2024 17:47:02",
+                "Frequency": 148.034,
+                "TN Bearing": 230.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.012665,
+                    -27.650536666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2482526542735286,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:47:06",
+                "Frequency": 148.034,
+                "TN Bearing": 230.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.012368333333335,
+                    -27.650586666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2063222200376913,
+                "Altitude": 319.5,
+                "Date & Time": "20-11-2024 17:47:08",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01208666666667,
+                    -27.650648333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.3528164597810246,
+                "Altitude": 319.4,
+                "Date & Time": "20-11-2024 17:47:10",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01208666666667,
+                    -27.650648333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17557311366545036,
+                "Altitude": 319.4,
+                "Date & Time": "20-11-2024 17:47:10",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.011936666666664,
+                    -27.650668333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16936724932747893,
+                "Altitude": 319.5,
+                "Date & Time": "20-11-2024 17:47:11",
+                "Frequency": 148.034,
+                "TN Bearing": 230.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01164333333333,
+                    -27.65072333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19917069948860444,
+                "Altitude": 318.6,
+                "Date & Time": "20-11-2024 17:47:13",
+                "Frequency": 148.034,
+                "TN Bearing": 230.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.011498333333336,
+                    -27.650753333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15524663467658684,
+                "Altitude": 318.4,
+                "Date & Time": "20-11-2024 17:47:14",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.011208333333336,
+                    -27.650806666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19754861568799242,
+                "Altitude": 318.4,
+                "Date & Time": "20-11-2024 17:47:16",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01092333333333,
+                    -27.650853333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18237862605019473,
+                "Altitude": 317.9,
+                "Date & Time": "20-11-2024 17:47:18",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01077166666666,
+                    -27.650886666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1511923983343877,
+                "Altitude": 318.6,
+                "Date & Time": "20-11-2024 17:47:19",
+                "Frequency": 148.034,
+                "TN Bearing": 230.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01062833333334,
+                    -27.65091333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15405614249175414,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:47:20",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01048,
+                    -27.650936666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17529413526062854,
+                "Altitude": 317.1,
+                "Date & Time": "20-11-2024 17:47:21",
+                "Frequency": 148.034,
+                "TN Bearing": 230.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.010196666666666,
+                    -27.650996666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23191318177850917,
+                "Altitude": 317.7,
+                "Date & Time": "20-11-2024 17:47:23",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.010045,
+                    -27.65102
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18889219063566998,
+                "Altitude": 317.5,
+                "Date & Time": "20-11-2024 17:47:24",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009906666666666,
+                    -27.65104
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18487060515326448,
+                "Altitude": 317.6,
+                "Date & Time": "20-11-2024 17:47:25",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00975666666667,
+                    -27.651065
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1551992136228364,
+                "Altitude": 317.7,
+                "Date & Time": "20-11-2024 17:47:26",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009475,
+                    -27.651116666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19568820789572783,
+                "Altitude": 317.6,
+                "Date & Time": "20-11-2024 17:47:28",
+                "Frequency": 148.034,
+                "TN Bearing": 230.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009475,
+                    -27.651116666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2817608037730679,
+                "Altitude": 317.6,
+                "Date & Time": "20-11-2024 17:47:28",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00859833333333,
+                    -27.651278333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.6453704554587603,
+                "Altitude": 318.2,
+                "Date & Time": "20-11-2024 17:47:34",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00859833333333,
+                    -27.651278333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19057264580624178,
+                "Altitude": 318.2,
+                "Date & Time": "20-11-2024 17:47:34",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00816666666667,
+                    -27.651358333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1540824814583175,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:47:37",
+                "Frequency": 148.034,
+                "TN Bearing": 230.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.007441666666665,
+                    -27.65149
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.30711034924024716,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:47:42",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00727666666667,
+                    -27.651505
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20865056285401806,
+                "Altitude": 317.8,
+                "Date & Time": "20-11-2024 17:47:44",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00683166666666,
+                    -27.651603333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15205147064989433,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:47:46",
+                "Frequency": 148.034,
+                "TN Bearing": 230.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00653333333333,
+                    -27.651633333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23223341486300342,
+                "Altitude": 318.8,
+                "Date & Time": "20-11-2024 17:47:48",
+                "Frequency": 148.034,
+                "TN Bearing": 230.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00639,
+                    -27.651676666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15974310372257605,
+                "Altitude": 320.2,
+                "Date & Time": "20-11-2024 17:47:49",
+                "Frequency": 148.034,
+                "TN Bearing": 230.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00639,
+                    -27.651676666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15381838238681667,
+                "Altitude": 320.2,
+                "Date & Time": "20-11-2024 17:47:49",
+                "Frequency": 148.034,
+                "TN Bearing": 230.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00624333333333,
+                    -27.651708333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17164287783089094,
+                "Altitude": 318.5,
+                "Date & Time": "20-11-2024 17:47:50",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.006103333333336,
+                    -27.651748333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1928295569086913,
+                "Altitude": 316.4,
+                "Date & Time": "20-11-2024 17:47:51",
+                "Frequency": 148.034,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.005945,
+                    -27.651761666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23296763174585067,
+                "Altitude": 317.5,
+                "Date & Time": "20-11-2024 17:47:52",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00580333333333,
+                    -27.651798333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16927306205616333,
+                "Altitude": 318.1,
+                "Date & Time": "20-11-2024 17:47:53",
+                "Frequency": 148.034,
+                "TN Bearing": 230.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.005645,
+                    -27.651813333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.228527878789464,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:47:54",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00550166666667,
+                    -27.651846666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15885141692706384,
+                "Altitude": 316.5,
+                "Date & Time": "20-11-2024 17:47:55",
+                "Frequency": 148.034,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00519333333333,
+                    -27.651885
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20530473193502985,
+                "Altitude": 317.5,
+                "Date & Time": "20-11-2024 17:47:57",
+                "Frequency": 148.034,
+                "TN Bearing": 230.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00519333333333,
+                    -27.651885
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.4090410948265344,
+                "Altitude": 317.5,
+                "Date & Time": "20-11-2024 17:47:57",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.005055,
+                    -27.651916666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1839438482420519,
+                "Altitude": 317.1,
+                "Date & Time": "20-11-2024 17:47:58",
+                "Frequency": 148.034,
+                "TN Bearing": 230.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00490833333333,
+                    -27.65195
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16351476006093435,
+                "Altitude": 317.3,
+                "Date & Time": "20-11-2024 17:47:59",
+                "Frequency": 148.034,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00490833333333,
+                    -27.65195
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16210804460570216,
+                "Altitude": 317.3,
+                "Date & Time": "20-11-2024 17:47:59",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.004765,
+                    -27.651973333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19331724615767598,
+                "Altitude": 317.9,
+                "Date & Time": "20-11-2024 17:48:00",
+                "Frequency": 148.034,
+                "TN Bearing": 230.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.004463333333334,
+                    -27.65202
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15915478797978722,
+                "Altitude": 317.9,
+                "Date & Time": "20-11-2024 17:48:02",
+                "Frequency": 148.034,
+                "TN Bearing": 230.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.004313333333336,
+                    -27.65204333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15171733139140997,
+                "Altitude": 317.8,
+                "Date & Time": "20-11-2024 17:48:03",
+                "Frequency": 148.034,
+                "TN Bearing": 230.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.004313333333336,
+                    -27.65204333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19695182345458306,
+                "Altitude": 317.8,
+                "Date & Time": "20-11-2024 17:48:03",
+                "Frequency": 148.034,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00401333333333,
+                    -27.652098333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22323436496662907,
+                "Altitude": 317.4,
+                "Date & Time": "20-11-2024 17:48:05",
+                "Frequency": 148.034,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00401333333333,
+                    -27.652098333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1950976911757607,
+                "Altitude": 317.4,
+                "Date & Time": "20-11-2024 17:48:05",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.003573333333335,
+                    -27.65217
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.4830291436519474,
+                "Altitude": 318.4,
+                "Date & Time": "20-11-2024 17:48:08",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00342833333333,
+                    -27.652205
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.49103004130301997,
+                "Altitude": 317.9,
+                "Date & Time": "20-11-2024 17:48:09",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.003125,
+                    -27.652261666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.6502110045403242,
+                "Altitude": 317.3,
+                "Date & Time": "20-11-2024 17:48:11",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.003125,
+                    -27.652261666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18775604985421523,
+                "Altitude": 317.3,
+                "Date & Time": "20-11-2024 17:48:12",
+                "Frequency": 148.034,
+                "TN Bearing": 230.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00297666666667,
+                    -27.65229
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1643835275899619,
+                "Altitude": 318.1,
+                "Date & Time": "20-11-2024 17:48:12",
+                "Frequency": 148.034,
+                "TN Bearing": 230.125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.002685,
+                    -27.652353333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.6164022488519549,
+                "Altitude": 317.4,
+                "Date & Time": "20-11-2024 17:48:14",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00253166666667,
+                    -27.652375
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.5413844337454066,
+                "Altitude": 317.3,
+                "Date & Time": "20-11-2024 17:48:15",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00223166666667,
+                    -27.652433333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.6376827514031902,
+                "Altitude": 317.8,
+                "Date & Time": "20-11-2024 17:48:17",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00179,
+                    -27.65251333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.6551341357408091,
+                "Altitude": 317.3,
+                "Date & Time": "20-11-2024 17:48:20",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.001333333333335,
+                    -27.65259
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.5825386688229628,
+                "Altitude": 318.4,
+                "Date & Time": "20-11-2024 17:48:23",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.000901666666664,
+                    -27.652675
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.9079069423023611,
+                "Altitude": 317.6,
+                "Date & Time": "20-11-2024 17:48:26",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00060166666667,
+                    -27.652721666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1639518086449243,
+                "Altitude": 318.4,
+                "Date & Time": "20-11-2024 17:48:28",
+                "Frequency": 148.034,
+                "TN Bearing": 230.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00045166666666,
+                    -27.652746666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15829966287128627,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:48:29",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00015166666667,
+                    -27.652801666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.9479537402512506,
+                "Altitude": 317.5,
+                "Date & Time": "20-11-2024 17:48:32",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.999853333333334,
+                    -27.652848333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.9872145164990798,
+                "Altitude": 317.5,
+                "Date & Time": "20-11-2024 17:48:33",
+                "Frequency": 150.1485,
+                "TN Bearing": 230.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.998806666666667,
+                    -27.653056666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 1.2654227612074465,
+                "Altitude": 317.9,
+                "Date & Time": "20-11-2024 17:48:41",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.998075,
+                    -27.653185
+                ]
+            },
+            "properties": {
+                "Signal Strength": 1.524250110378489,
+                "Altitude": 317.2,
+                "Date & Time": "20-11-2024 17:48:45",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.996141666666666,
+                    -27.653531666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1656863787502516,
+                "Altitude": 316.6,
+                "Date & Time": "20-11-2024 17:48:58",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.996141666666666,
+                    -27.653531666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1500041071267333,
+                "Altitude": 316.6,
+                "Date & Time": "20-11-2024 17:48:58",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.996141666666666,
+                    -27.653531666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 2.519809640944004,
+                "Altitude": 316.6,
+                "Date & Time": "20-11-2024 17:48:59",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99599,
+                    -27.653558333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.18912292944150977,
+                "Altitude": 316.9,
+                "Date & Time": "20-11-2024 17:48:59",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.995831666666668,
+                    -27.65358
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15861744032008573,
+                "Altitude": 316.7,
+                "Date & Time": "20-11-2024 17:49:00",
+                "Frequency": 148.034,
+                "TN Bearing": 229.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.995685,
+                    -27.653608333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22612070097238757,
+                "Altitude": 316.7,
+                "Date & Time": "20-11-2024 17:49:01",
+                "Frequency": 148.034,
+                "TN Bearing": 229.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.995378333333335,
+                    -27.653668333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 5.031238542869687,
+                "Altitude": 316.3,
+                "Date & Time": "20-11-2024 17:49:03",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99463,
+                    -27.65379
+                ]
+            },
+            "properties": {
+                "Signal Strength": 6.468103965744376,
+                "Altitude": 317.7,
+                "Date & Time": "20-11-2024 17:49:08",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994038333333332,
+                    -27.653896666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19467670426820405,
+                "Altitude": 318.1,
+                "Date & Time": "20-11-2024 17:49:12",
+                "Frequency": 148.034,
+                "TN Bearing": 229.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.993145,
+                    -27.654053333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 13.346864143386483,
+                "Altitude": 318.1,
+                "Date & Time": "20-11-2024 17:49:18",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.992265,
+                    -27.654213333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 29.770792461931705,
+                "Altitude": 320.0,
+                "Date & Time": "20-11-2024 17:49:24",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.991813333333333,
+                    -27.654305
+                ]
+            },
+            "properties": {
+                "Signal Strength": 17.27919210679829,
+                "Altitude": 318.1,
+                "Date & Time": "20-11-2024 17:49:27",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.991513333333334,
+                    -27.654356666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.4422932761372067,
+                "Altitude": 318.0,
+                "Date & Time": "20-11-2024 17:49:29",
+                "Frequency": 148.034,
+                "TN Bearing": 229.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.991365000000002,
+                    -27.65438
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21510746591957286,
+                "Altitude": 318.1,
+                "Date & Time": "20-11-2024 17:49:30",
+                "Frequency": 148.034,
+                "TN Bearing": 229.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.990778333333335,
+                    -27.654478333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 7.628920720890164,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:49:35",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.990175,
+                    -27.654596666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 4.77393448818475,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:49:38",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.99003,
+                    -27.654625
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19257262465544045,
+                "Altitude": 318.8,
+                "Date & Time": "20-11-2024 17:49:39",
+                "Frequency": 148.034,
+                "TN Bearing": 229.125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.989725,
+                    -27.65468
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15402172721223906,
+                "Altitude": 319.9,
+                "Date & Time": "20-11-2024 17:49:42",
+                "Frequency": 148.034,
+                "TN Bearing": 229.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98943166666667,
+                    -27.65473
+                ]
+            },
+            "properties": {
+                "Signal Strength": 4.082467639818788,
+                "Altitude": 320.5,
+                "Date & Time": "20-11-2024 17:49:44",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.188
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.988831666666666,
+                    -27.654835
+                ]
+            },
+            "properties": {
+                "Signal Strength": 4.011965065728873,
+                "Altitude": 320.0,
+                "Date & Time": "20-11-2024 17:49:47",
+                "Frequency": 150.1485,
+                "TN Bearing": 229.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98835,
+                    -27.654921666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 5.176891572773457,
+                "Altitude": 319.6,
+                "Date & Time": "20-11-2024 17:49:51",
+                "Frequency": 150.1485,
+                "TN Bearing": 228.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.988178333333334,
+                    -27.654936666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 2.557482512202114,
+                "Altitude": 319.7,
+                "Date & Time": "20-11-2024 17:49:54",
+                "Frequency": 150.1485,
+                "TN Bearing": 276.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.988096666666667,
+                    -27.654833333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 4.580306122079492,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:49:57",
+                "Frequency": 150.1485,
+                "TN Bearing": 313.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.987945,
+                    -27.654328333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 1.3852403208147734,
+                "Altitude": 320.2,
+                "Date & Time": "20-11-2024 17:50:03",
+                "Frequency": 150.1485,
+                "TN Bearing": 315.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98769,
+                    -27.653695
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.9341690019937232,
+                "Altitude": 320.1,
+                "Date & Time": "20-11-2024 17:50:08",
+                "Frequency": 150.1485,
+                "TN Bearing": 314.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.987501666666667,
+                    -27.653173333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.7217592792585492,
+                "Altitude": 319.3,
+                "Date & Time": "20-11-2024 17:50:12",
+                "Frequency": 150.1485,
+                "TN Bearing": 314.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98724,
+                    -27.652526666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.8918343519326299,
+                "Altitude": 319.5,
+                "Date & Time": "20-11-2024 17:50:17",
+                "Frequency": 150.1485,
+                "TN Bearing": 314.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.986926666666665,
+                    -27.651775
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23570453777210787,
+                "Altitude": 319.2,
+                "Date & Time": "20-11-2024 17:50:23",
+                "Frequency": 150.1485,
+                "TN Bearing": 322.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.986723333333334,
+                    -27.651265
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.31231826142175123,
+                "Altitude": 318.6,
+                "Date & Time": "20-11-2024 17:50:27",
+                "Frequency": 150.1485,
+                "TN Bearing": 314.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.986573333333332,
+                    -27.650888333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.3660330912680365,
+                "Altitude": 318.3,
+                "Date & Time": "20-11-2024 17:50:30",
+                "Frequency": 150.1485,
+                "TN Bearing": 314.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.984341666666666,
+                    -27.644983333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1747072019497864,
+                "Altitude": 318.7,
+                "Date & Time": "20-11-2024 17:51:23",
+                "Frequency": 150.1485,
+                "TN Bearing": 47.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.984616666666668,
+                    -27.644938333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2277862949995324,
+                "Altitude": 319.6,
+                "Date & Time": "20-11-2024 17:51:27",
+                "Frequency": 150.1485,
+                "TN Bearing": 53.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.986296666666668,
+                    -27.6446
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16242865967797115,
+                "Altitude": 319.7,
+                "Date & Time": "20-11-2024 17:51:39",
+                "Frequency": 150.1485,
+                "TN Bearing": 53.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.988028333333332,
+                    -27.644255
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1563098885526415,
+                "Altitude": 323.5,
+                "Date & Time": "20-11-2024 17:51:51",
+                "Frequency": 150.1485,
+                "TN Bearing": 52.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.98874,
+                    -27.644105
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1960034205694683,
+                "Altitude": 324.4,
+                "Date & Time": "20-11-2024 17:51:56",
+                "Frequency": 150.1485,
+                "TN Bearing": 53.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.989601666666665,
+                    -27.643925
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19710514607140794,
+                "Altitude": 324.1,
+                "Date & Time": "20-11-2024 17:52:02",
+                "Frequency": 150.1485,
+                "TN Bearing": 53.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.990033333333333,
+                    -27.643833333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1682294168858789,
+                "Altitude": 325.5,
+                "Date & Time": "20-11-2024 17:52:06",
+                "Frequency": 150.1485,
+                "TN Bearing": 53.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.990451666666665,
+                    -27.643748333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.28601209123735316,
+                "Altitude": 325.9,
+                "Date & Time": "20-11-2024 17:52:08",
+                "Frequency": 150.1485,
+                "TN Bearing": 53.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.991326666666666,
+                    -27.643563333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2461296935507562,
+                "Altitude": 325.9,
+                "Date & Time": "20-11-2024 17:52:14",
+                "Frequency": 150.1485,
+                "TN Bearing": 52.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.991911666666667,
+                    -27.643458333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.27070445867138915,
+                "Altitude": 325.0,
+                "Date & Time": "20-11-2024 17:52:18",
+                "Frequency": 150.1485,
+                "TN Bearing": 51.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.992343333333334,
+                    -27.64335833333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20486791981966235,
+                "Altitude": 326.1,
+                "Date & Time": "20-11-2024 17:52:21",
+                "Frequency": 150.1485,
+                "TN Bearing": 51.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.993648333333333,
+                    -27.643101666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22230045942706056,
+                "Altitude": 325.4,
+                "Date & Time": "20-11-2024 17:52:30",
+                "Frequency": 150.1485,
+                "TN Bearing": 52.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.994501666666668,
+                    -27.642921666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.20706773284473456,
+                "Altitude": 325.7,
+                "Date & Time": "20-11-2024 17:52:36",
+                "Frequency": 150.1485,
+                "TN Bearing": 52.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.997403333333335,
+                    -27.642326666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1570845597598236,
+                "Altitude": 324.8,
+                "Date & Time": "20-11-2024 17:52:56",
+                "Frequency": 150.1485,
+                "TN Bearing": 52.625
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00044,
+                    -27.641693333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1628834979783278,
+                "Altitude": 325.8,
+                "Date & Time": "20-11-2024 17:53:17",
+                "Frequency": 150.1485,
+                "TN Bearing": 50.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00116833333333,
+                    -27.641543333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15625917512807064,
+                "Altitude": 325.6,
+                "Date & Time": "20-11-2024 17:53:22",
+                "Frequency": 150.1485,
+                "TN Bearing": 57.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00189666666667,
+                    -27.641475
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1981932837225031,
+                "Altitude": 324.4,
+                "Date & Time": "20-11-2024 17:53:27",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.002795,
+                    -27.641408333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16233590940828435,
+                "Altitude": 324.6,
+                "Date & Time": "20-11-2024 17:53:33",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00396166666667,
+                    -27.641306666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1581642027304042,
+                "Altitude": 324.7,
+                "Date & Time": "20-11-2024 17:53:41",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00440833333333,
+                    -27.641273333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21124289560248144,
+                "Altitude": 325.0,
+                "Date & Time": "20-11-2024 17:53:44",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0047,
+                    -27.64125
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21715080947615206,
+                "Altitude": 325.2,
+                "Date & Time": "20-11-2024 17:53:46",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.004841666666664,
+                    -27.641243333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.26020457880804315,
+                "Altitude": 324.6,
+                "Date & Time": "20-11-2024 17:53:48",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00528333333333,
+                    -27.641208333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23250331651070155,
+                "Altitude": 325.5,
+                "Date & Time": "20-11-2024 17:53:50",
+                "Frequency": 148.034,
+                "TN Bearing": 57.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00556666666667,
+                    -27.641176666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15968758816597983,
+                "Altitude": 324.0,
+                "Date & Time": "20-11-2024 17:53:52",
+                "Frequency": 148.034,
+                "TN Bearing": 59.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.005885,
+                    -27.641163333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19429640815360472,
+                "Altitude": 325.1,
+                "Date & Time": "20-11-2024 17:53:54",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.006195,
+                    -27.641138333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1788491317711305,
+                "Altitude": 325.3,
+                "Date & Time": "20-11-2024 17:53:56",
+                "Frequency": 148.034,
+                "TN Bearing": 59.062
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00633,
+                    -27.641125
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21870664568268694,
+                "Altitude": 325.5,
+                "Date & Time": "20-11-2024 17:53:57",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00722833333333,
+                    -27.641051666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.17687334548099898,
+                "Altitude": 325.7,
+                "Date & Time": "20-11-2024 17:54:03",
+                "Frequency": 148.034,
+                "TN Bearing": 59.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00752333333333,
+                    -27.641023333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1786654320312664,
+                "Altitude": 325.5,
+                "Date & Time": "20-11-2024 17:54:05",
+                "Frequency": 148.034,
+                "TN Bearing": 58.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.007978333333334,
+                    -27.640998333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.27917316401726566,
+                "Altitude": 325.4,
+                "Date & Time": "20-11-2024 17:54:08",
+                "Frequency": 148.034,
+                "TN Bearing": 59.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00842,
+                    -27.640958333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21614385332213715,
+                "Altitude": 325.4,
+                "Date & Time": "20-11-2024 17:54:12",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009013333333336,
+                    -27.64091
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21356127035687678,
+                "Altitude": 324.7,
+                "Date & Time": "20-11-2024 17:54:15",
+                "Frequency": 148.034,
+                "TN Bearing": 60.125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.00916,
+                    -27.640893333333334
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15274750694516115,
+                "Altitude": 324.4,
+                "Date & Time": "20-11-2024 17:54:16",
+                "Frequency": 148.034,
+                "TN Bearing": 59.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009585,
+                    -27.640853333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15102831639524084,
+                "Altitude": 325.1,
+                "Date & Time": "20-11-2024 17:54:19",
+                "Frequency": 148.034,
+                "TN Bearing": 59.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.009883333333335,
+                    -27.640825
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24019433112698607,
+                "Altitude": 325.5,
+                "Date & Time": "20-11-2024 17:54:21",
+                "Frequency": 150.1485,
+                "TN Bearing": 60.875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.010178333333336,
+                    -27.640805
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21884627130930312,
+                "Altitude": 325.5,
+                "Date & Time": "20-11-2024 17:54:23",
+                "Frequency": 150.1485,
+                "TN Bearing": 61.438
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01033,
+                    -27.640793333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1751594027155079,
+                "Altitude": 325.2,
+                "Date & Time": "20-11-2024 17:54:24",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01033,
+                    -27.640793333333335
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24229968403233215,
+                "Altitude": 325.2,
+                "Date & Time": "20-11-2024 17:54:24",
+                "Frequency": 150.1485,
+                "TN Bearing": 60.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01047,
+                    -27.640785
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15706125850556418,
+                "Altitude": 326.0,
+                "Date & Time": "20-11-2024 17:54:25",
+                "Frequency": 148.034,
+                "TN Bearing": 59.812
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01061833333333,
+                    -27.64078
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21028303308412433,
+                "Altitude": 326.4,
+                "Date & Time": "20-11-2024 17:54:26",
+                "Frequency": 150.1485,
+                "TN Bearing": 60.125
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.010765,
+                    -27.64077
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2224176023446489,
+                "Altitude": 326.4,
+                "Date & Time": "20-11-2024 17:54:27",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.010915,
+                    -27.640755
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1669076482357923,
+                "Altitude": 326.5,
+                "Date & Time": "20-11-2024 17:54:28",
+                "Frequency": 148.034,
+                "TN Bearing": 60.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.011215,
+                    -27.640736666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2956622847705148,
+                "Altitude": 325.6,
+                "Date & Time": "20-11-2024 17:54:30",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.011363333333335,
+                    -27.640721666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.26535171855357476,
+                "Altitude": 325.4,
+                "Date & Time": "20-11-2024 17:54:31",
+                "Frequency": 150.1485,
+                "TN Bearing": 58.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01151,
+                    -27.640715
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1907463047245983,
+                "Altitude": 325.7,
+                "Date & Time": "20-11-2024 17:54:32",
+                "Frequency": 148.034,
+                "TN Bearing": 59.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01151,
+                    -27.640715
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.23501910618506372,
+                "Altitude": 325.7,
+                "Date & Time": "20-11-2024 17:54:33",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.688
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0118,
+                    -27.64069
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1572550172568299,
+                "Altitude": 325.9,
+                "Date & Time": "20-11-2024 17:54:34",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.375
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01194666666667,
+                    -27.640676666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.2180594310630113,
+                "Altitude": 325.8,
+                "Date & Time": "20-11-2024 17:54:36",
+                "Frequency": 148.034,
+                "TN Bearing": 59.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.012103333333336,
+                    -27.640663333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.25911185730365105,
+                "Altitude": 326.6,
+                "Date & Time": "20-11-2024 17:54:36",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.562
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01224833333333,
+                    -27.64065
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.15269939467543736,
+                "Altitude": 326.2,
+                "Date & Time": "20-11-2024 17:54:37",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.012386666666664,
+                    -27.640643333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19771186998696066,
+                "Altitude": 326.4,
+                "Date & Time": "20-11-2024 17:54:38",
+                "Frequency": 148.034,
+                "TN Bearing": 58.938
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01268833333334,
+                    -27.640618333333332
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.21288184143486433,
+                "Altitude": 326.9,
+                "Date & Time": "20-11-2024 17:54:40",
+                "Frequency": 148.034,
+                "TN Bearing": 59.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01283,
+                    -27.640605
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.19676514057209715,
+                "Altitude": 327.0,
+                "Date & Time": "20-11-2024 17:54:41",
+                "Frequency": 150.1485,
+                "TN Bearing": 60.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01298,
+                    -27.64059
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.16702611901564524,
+                "Altitude": 326.7,
+                "Date & Time": "20-11-2024 17:54:42",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013126666666665,
+                    -27.640576666666668
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.22836333300801925,
+                "Altitude": 326.0,
+                "Date & Time": "20-11-2024 17:54:43",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01342,
+                    -27.640556666666665
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.1757891004672274,
+                "Altitude": 326.3,
+                "Date & Time": "20-11-2024 17:54:45",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.013873333333336,
+                    -27.640508333333333
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.33377629733877257,
+                "Altitude": 326.8,
+                "Date & Time": "20-11-2024 17:54:48",
+                "Frequency": 150.1485,
+                "TN Bearing": 59.312
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.015663333333336,
+                    -27.640371666666667
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.24000726625672542,
+                "Altitude": 324.2,
+                "Date & Time": "20-11-2024 17:55:00",
+                "Frequency": 148.034,
+                "TN Bearing": 59.25
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01809333333333,
+                    -27.643961666666666
+                ]
+            },
+            "properties": {
+                "Signal Strength": 0.7829253445379436,
+                "Altitude": 318.9,
+                "Date & Time": "20-11-2024 17:55:53",
+                "Frequency": 148.034,
+                "TN Bearing": 146.375
+            }
+        }
+    ]
+}
