@@ -17,10 +17,10 @@ import json
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QPushButton, QLabel, QFileDialog, QTableWidget, 
     QTableWidgetItem, QHBoxLayout, QMessageBox, QDialog, QCheckBox, QComboBox, QSplitter,
-    QHeaderView
+    QHeaderView, QTextBrowser, QFrame
 )
-from PyQt5.QtCore import Qt
-from PyQt5.QtGui import QPalette, QColor, QFont
+from PyQt5.QtCore import Qt, QSize
+from PyQt5.QtGui import QPalette, QColor, QFont, QIcon
 
 # Matplotlib navigation toolbar
 from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT
@@ -45,9 +45,20 @@ class CustomNavigationToolbar(NavigationToolbar2QT):
                     widget.setToolTip(action.toolTip())
 
 
+# Helper function to handle paths in both script and executable modes
+def resource_path(relative_path):
+    """Get absolute path to resource, works for dev and for PyInstaller"""
+    try:
+        # PyInstaller creates a temp folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(os.path.dirname(__file__))
+    
+    return os.path.join(base_path, relative_path)
+
 # Configuration paths
-CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'settings', 'config.json')
-SETTINGS_DIR = os.path.join(os.path.dirname(__file__), 'settings')
+CONFIG_PATH = resource_path(os.path.join('settings', 'config.json'))
+SETTINGS_DIR = resource_path('settings')
 
 class MainWindow(QMainWindow):
     """Main application window for the GeoTrack Visualizer.
@@ -59,6 +70,11 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.setWindowTitle('GeoTrack Visualizer')
         self.resize(1200, 800)
+        
+        # Set application icon
+        app_icon = QIcon(resource_path('icons/app_icon.png'))
+        self.setWindowIcon(app_icon)
+        
         self.default_dir = self.load_or_select_default_directory()
         self.dark_mode = False
         self.init_ui()
@@ -425,8 +441,8 @@ class MainWindow(QMainWindow):
         style = QApplication.style()
         from PyQt5.QtGui import QIcon
         clear_icon = style.standardIcon(QStyle.SP_DialogResetButton)
-        zoom_in_icon = QIcon('icons/plus.svg')
-        zoom_out_icon = QIcon('icons/minus.svg')
+        zoom_in_icon = QIcon(resource_path('icons/plus.svg'))
+        zoom_out_icon = QIcon(resource_path('icons/minus.svg'))
         zoom_in_action = QAction(zoom_in_icon, '', self)
         zoom_in_action.setToolTip('Zoom In: Make the map view larger')
         zoom_out_action = QAction(zoom_out_icon, '', self)
@@ -442,13 +458,12 @@ class MainWindow(QMainWindow):
         home_action = None
         pan_action = None
         # Assign new icons and tooltips for pan and reset (home) actions
-        import os
-        pan_cursor_path = 'icons/pan_cursor.png'
+        pan_cursor_path = resource_path('icons/pan_cursor.png')
         if os.path.isfile(pan_cursor_path):
             pan_icon = QIcon(pan_cursor_path)
         else:
-            pan_icon = QIcon('icons/pan.svg')
-        reset_icon = QIcon('icons/reset.svg')
+            pan_icon = QIcon(resource_path('icons/pan.svg'))
+        reset_icon = QIcon(resource_path('icons/reset.svg'))
         for act in default_actions:
             tip = act.toolTip().lower()
             if 'home' in tip or 'reset original view' in tip:
@@ -695,9 +710,115 @@ class FileSelectDialog(QDialog):
             self.geojson_path = path
             self.geojson_edit.setText(f"Selected: {os.path.basename(path)}")
 
+class WelcomeScreen(QDialog):
+    """
+    Welcome screen that displays an introduction to the application's features
+    using markdown formatting for a professional appearance.
+    """
+    def __init__(self, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle("Welcome to GeoTrack Visualizer")
+        self.setWindowIcon(QIcon(resource_path('icons/app_icon.png')))
+        self.resize(800, 600)
+        self.setup_ui()
+        
+    def setup_ui(self):
+        layout = QVBoxLayout(self)
+        
+        # Create markdown browser with custom styling
+        self.text_browser = QTextBrowser()
+        self.text_browser.setOpenExternalLinks(True)
+        
+        # Set custom CSS for markdown rendering
+        self.text_browser.setStyleSheet("""
+            QTextBrowser {
+                border: none;
+                background-color: #f8f9fa;
+                padding: 20px;
+                font-size: 14px;
+            }
+        """)
+        
+        # Load HTML content directly
+        try:
+            # Set the search paths for resources (images)
+            self.text_browser.setSearchPaths([resource_path('')])
+            
+            # Load HTML file directly
+            html_path = resource_path('welcome.html')
+            with open(html_path, 'r') as f:
+                html_content = f.read()
+                self.text_browser.setHtml(html_content)
+        except Exception as e:
+            self.text_browser.setPlainText(f"Error loading welcome content: {e}")
+        
+        # Create a styled start button
+        button_container = QFrame()
+        button_layout = QHBoxLayout(button_container)
+        
+        self.start_button = QPushButton("Start Application")
+        self.start_button.setMinimumSize(QSize(200, 50))
+        self.start_button.setStyleSheet("""
+            QPushButton {
+                background-color: #4CAF50;
+                color: white;
+                font-size: 16px;
+                font-weight: bold;
+                border-radius: 5px;
+                padding: 10px;
+            }
+            QPushButton:hover {
+                background-color: #45a049;
+            }
+            QPushButton:pressed {
+                background-color: #3d8b40;
+            }
+        """)
+        self.start_button.clicked.connect(self.accept)
+        
+        button_layout.addStretch()
+        button_layout.addWidget(self.start_button)
+        button_layout.addStretch()
+        
+        layout.addWidget(self.text_browser)
+        layout.addWidget(button_container)
+        
+    def update_theme(self, dark_mode):
+        """Update the welcome screen appearance based on dark/light mode"""
+        if dark_mode:
+            self.text_browser.setStyleSheet("""
+                QTextBrowser {
+                    border: none;
+                    background-color: #2d2d2d;
+                    color: #ffffff;
+                    padding: 20px;
+                    font-size: 14px;
+                }
+            """)
+        else:
+            self.text_browser.setStyleSheet("""
+                QTextBrowser {
+                    border: none;
+                    background-color: #f8f9fa;
+                    color: #000000;
+                    padding: 20px;
+                    font-size: 14px;
+                }
+            """)
+
 if __name__ == "__main__":
     # Create and run the application
     app = QApplication(sys.argv)
-    window = MainWindow()
-    window.show()
-    sys.exit(app.exec_())
+    
+    # Show welcome screen first
+    welcome = WelcomeScreen()
+    result = welcome.exec_()
+    
+    if result == QDialog.Accepted:
+        # If user clicked Start, show the main application
+        window = MainWindow()
+        window.show()
+        sys.exit(app.exec_())
+    else:
+        # If welcome screen was closed, exit the application
+        sys.exit(0)
