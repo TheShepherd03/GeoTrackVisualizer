@@ -58,6 +58,38 @@ A desktop application for visualizing geospatial tracking data with interactive 
    - Click on points to see detailed attribute information
    - Hover over points to see quick tooltips
    - Use the table to view and sort all data points
+
+## Building a Windows Executable (.exe)
+
+**Note:**
+- If you build the executable on Linux, it will **not** run on Windows.
+- To create a Windows `.exe` file, you must build it on a Windows machine with Python and all dependencies installed.
+
+### Steps to Build on Windows:
+
+1. **Set up your project on a Windows machine:**
+   - Copy your project files to your Windows system (or use Git to clone).
+
+2. **Install Python and dependencies:**
+   - Install Python 3.8+ from [python.org](https://www.python.org/downloads/).
+   - Open Command Prompt and run:
+     ```
+     python -m venv venv
+     venv\Scripts\activate
+     pip install -r requirements.txt
+     pip install pyinstaller
+     ```
+
+3. **Build the .exe with PyInstaller:**
+   ```
+   pyinstaller --onefile --noconfirm --name GeoTrackVisualizer main.py
+   ```
+   - The `.exe` will be created in the `dist/` directory.
+
+4. **Distribute the .exe:**
+   - Share the `.exe` and any required resource files (icons, HTML, etc.) with your users.
+
+---
    - Try different map styles from the dropdown menu
    - Toggle dark mode for comfortable viewing in low-light environments
 
