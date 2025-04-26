@@ -90,8 +90,6 @@ A desktop application for visualizing geospatial tracking data with interactive 
    - Share the `.exe` and any required resource files (icons, HTML, etc.) with your users.
 
 ---
-   - Try different map styles from the dropdown menu
-   - Toggle dark mode for comfortable viewing in low-light environments
 
 ## Data Format
 
