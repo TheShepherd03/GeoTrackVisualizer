@@ -26,9 +26,9 @@ A desktop application for visualizing geospatial tracking data with interactive 
 ## Installation
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/geotrack-visualizer.git
-   cd geotrack-visualizer
+      ```
+   git clone https://github.com/TheShepherd03/GeoTrackVisualizer.git
+   cd GeoTrackVisualizer
    ```
 
 2. Create and activate a virtual environment (recommended):
